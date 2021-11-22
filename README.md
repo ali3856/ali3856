@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali3856, currently a student at Flatiron School. 
+- 👋 Hi, I’m @ali3856, I recently graduated from Flatiron School. 
 - 👀 I’m interested in software engineering work.
 - 🌱 I’m currently learning JavaScript. 
 - You can reach me at asimsali95@gmail.com
